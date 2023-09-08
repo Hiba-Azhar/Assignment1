@@ -1,0 +1,79 @@
+body {
+  background-color: #f3f5e2;
+}
+.nav-bar {
+  background-color: white;
+  font-size: 17px;
+  width: 100%;
+  text-align: right;
+  margin-top: 10px;
+}
+.nav-bar a {
+  color: #f4970b;
+  font-family: 'Inknut Antiqua', serif;
+  font-weight: 500;
+  text-decoration: none;
+  padding: 15px;
+}
+
+.welcome-bar {
+  background-color: #f4970b;
+  width: 100%;
+  padding-left: 5%;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 0px 50px 50px 0px;
+}
+
+.website-logo {
+  margin-left: 5px;
+  border-left: #f3f5e2;
+  border-width: 20px;
+}
+.website-text {
+  text-align: right;
+  color: white;
+  font-family: 'Inknut Antiqua', serif;
+  line-height: 60px;
+  padding-top: 3%;
+  padding-left: 50px;
+}
+span {
+  font-size: 80px;
+  font-weight: 300;
+}
+.website-text h1 {
+  font-weight: 100;
+}
+
+.quote {
+  text-align: right;
+  margin-top: 5px;
+  padding-right: 3%;
+  font-family: 'Inria Serif', serif;
+  font-size: 30px;
+}
+.heading {
+  padding-top: 20px;
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 100px;
+  font-weight: 300;
+  text-decoration: underline;
+  text-align: center;
+  color: black;
+  text-shadow: 2px;
+}
+.row {
+  padding: 10%;
+  align-items: center;
+}
+.show-more-btn {
+  background-color: #f4970b;
+  color: white;
+  border-radius: 50px;
+}
+.btn-more {
+  justify-content: center;
+  display: flex;
+  padding-right: 2rem;
+}
